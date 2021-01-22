@@ -27,5 +27,5 @@ droplet_sizes = [0, 0, 0,]
 
 **Note**
     Be aware that when you use MyBinder you cannot save the notebook. When you
-    finished the assignment, download the notebook and submit it via Athena.
+    finished the assignment, download the notebook and submit it via [Athena](https://athena.itslearning.com/Index.aspx).
 
