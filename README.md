@@ -12,10 +12,10 @@ These cells you have to modify. There are essentially three type of tasks to per
 
 * write code
 * provide parameters
-* write short explainations
+* write short explanations
 
 Often the part where you have to modify the code is emphasized like in the example below.
-The variables might be set to some placeholder value like `0` or `None`.
+The variables might be set to some placeholder value that you should change, e.g., `0` or `None`.
 
 ```python
 ### START CODE HERE ###
